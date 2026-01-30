@@ -15,7 +15,6 @@ class OperacionesCalculadora:
     def dividir(self, a, b):
         if b == 0:
             return None
-
         return a / b
 
     # --- Operaciones Avanzadas ---
